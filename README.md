@@ -62,3 +62,11 @@ analysis.
 - Implemented machine learning algorithms, including Logistic Regression, Support Vector Machines (SVM), and XGBClassifier, to predict stock price movements.
 - Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analysis to measure prediction accuracy.
 - Established and interpreted confusion matrices to validate model predictions.
+
+### Fake News Detection 
+
+**Description**
+
+
+
+
