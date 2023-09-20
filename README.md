@@ -28,7 +28,7 @@
 ## Projects
 ### Social Media Data Analysis and Recommendation System
 
-**Description:**
+**Description**
 
 Developed a comprehensive Social Media Data Analysis and Recommendation System utilizing Python and the Twint library for data scraping. Employed a diverse range of machine learning algorithms, including:
 - K-Nearest Neighbors (KNN)
@@ -38,8 +38,27 @@ Developed a comprehensive Social Media Data Analysis and Recommendation System u
 - Logistic regression
 to deliver tailored content recommendations based on user interactions. Integrated Cross Validation techniques to rigorously assess and enhance algorithm performance. Utilized advanced data processing methods, such as pivot tables, cosine similarity, and rating matrices, to refine recommendation accuracy.
 
-**Key Achievements:**
+**Key Achievements**
 - Scrapped extensive datasets from various social media platforms, encompassing business information and COVID-19-related data, using Python and the Twint library.
 - Predicted the future impact of the global pandemic on companies by leveraging machine learning models and merging them with existing data.
 - Significantly improved recommendation accuracy, resulting in a more engaging user experience.
 - Demonstrated proficiency in data manipulation, Python programming, machine learning, and algorithm evaluation.
+
+### Stock Price Prediction using Machine Learning in Python
+
+**Description**
+
+- Developed a comprehensive Stock Price Prediction project using Python, focusing on Tesla's historical stock movements from 2010 to 2020. Applied data extraction, exploratory data analysis (EDA), and advanced machine learning techniques to gain valuable insights into stock price trends and quarterly performance effects.
+
+**Key Achievements**
+
+- Extracted and processed Tesla&#39;s historical stock data using Python, covering a significant period from 2010 to 2020.
+- Conducted thorough Exploratory Data Analysis (EDA) to unveil critical trends, patterns, and underlying assumptions within the dataset.
+- Analyzed and visualized stock price movements over time, with a specific focus on how end-of-quarter data influenced stock prices.
+- Created Open-High-Low-Close (OHLC) charts to depict stock data variations, including Volume, Open price, Close price, High, and Low.
+- Engineered the date column into three distinct columns: &quot;Day,&quot; &quot;Month,&quot; and &quot;Year&quot; for further
+analysis.
+- Grouped data based on quarter-end dates to facilitate quarterly performance assessments.
+- Implemented machine learning algorithms, including Logistic Regression, Support Vector Machines (SVM), and XGBClassifier, to predict stock price movements.
+- Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analysis to measure prediction accuracy.
+- Established and interpreted confusion matrices to validate model predictions.
