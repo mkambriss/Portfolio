@@ -4,7 +4,7 @@
 
 ## Education
 - B.S., Data Science | Lebanese University (_September 2022_)
-- B.B.A., Finance | Lebanese American university(_May 2021_)
+- B.B.A., Finance | Lebanese American University (_May 2021_)
 
 ## Work Experience
 **Data Scientist @ International College (_August 2022 - Present_)**
