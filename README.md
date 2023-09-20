@@ -39,6 +39,7 @@ Developed a comprehensive Social Media Data Analysis and Recommendation System u
 to deliver tailored content recommendations based on user interactions. Integrated Cross Validation techniques to rigorously assess and enhance algorithm performance. Utilized advanced data processing methods, such as pivot tables, cosine similarity, and rating matrices, to refine recommendation accuracy.
 
 **Key Achievements**
+
 - Scrapped extensive datasets from various social media platforms, encompassing business information and COVID-19-related data, using Python and the Twint library.
 - Predicted the future impact of the global pandemic on companies by leveraging machine learning models and merging them with existing data.
 - Significantly improved recommendation accuracy, resulting in a more engaging user experience.
@@ -48,20 +49,45 @@ to deliver tailored content recommendations based on user interactions. Integrat
 
 **Description**
 
-- Developed a comprehensive Stock Price Prediction project using Python, focusing on Tesla's historical stock movements from 2010 to 2020. Applied data extraction, exploratory data analysis (EDA), and advanced machine learning techniques to gain valuable insights into stock price trends and quarterly performance effects.
+Developed a comprehensive Stock Price Prediction project using Python, with a specific focus on analyzing Tesla's historical stock movements spanning from 2010 to 2020. This project involved a multi-faceted approach, encompassing data extraction, exploratory data analysis (EDA), and the application of advanced machine learning techniques to gain valuable insights into stock price trends and quarterly performance effects.
 
 **Key Achievements**
 
-- Extracted and processed Tesla&#39;s historical stock data using Python, covering a significant period from 2010 to 2020.
-- Conducted thorough Exploratory Data Analysis (EDA) to unveil critical trends, patterns, and underlying assumptions within the dataset.
-- Analyzed and visualized stock price movements over time, with a specific focus on how end-of-quarter data influenced stock prices.
-- Created Open-High-Low-Close (OHLC) charts to depict stock data variations, including Volume, Open price, Close price, High, and Low.
-- Engineered the date column into three distinct columns: &quot;Day,&quot; &quot;Month,&quot; and &quot;Year&quot; for further
-analysis.
-- Grouped data based on quarter-end dates to facilitate quarterly performance assessments.
-- Implemented machine learning algorithms, including Logistic Regression, Support Vector Machines (SVM), and XGBClassifier, to predict stock price movements.
-- Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analysis to measure prediction accuracy.
-- Established and interpreted confusion matrices to validate model predictions.
+**Data Extraction and Processing**
+
+Successfully extracted and processed Tesla's extensive historical stock data, covering a substantial period from 2010 to 2020, ensuring the availability of clean and structured data for analysis.
+
+**Exploratory Data Analysis (EDA)**
+
+Conducted a comprehensive EDA to unveil critical trends, patterns, and underlying assumptions within the dataset, providing valuable context for subsequent analysis.
+
+**Visualization of Stock Price Movements**
+
+Effectively analyzed and visualized stock price movements over time, with a specific focus on how end-of-quarter data influenced stock prices. This visualization provided key insights into quarterly performance effects.
+
+**OHLC Chart Creation**
+
+Created Open-High-Low-Close (OHLC) charts to depict variations in stock data, including Volume, Open price, Close price, High, and Low, aiding in understanding stock price dynamics.
+
+**Date Column Engineering**
+
+Engineered the date column into three distinct columns: "Day," "Month," and "Year," facilitating further time-based analysis and feature engineering.
+
+**Quarterly Performance Assessment**
+
+Grouped data based on quarter-end dates, streamlining the assessment of quarterly performance effects and enabling data-driven decision-making.
+
+**Machine Learning Implementation**
+
+Implemented machine learning algorithms, including Logistic Regression, Support Vector Machines (SVM), and XGBClassifier, to predict stock price movements, contributing to the predictive modeling aspect of the project.
+
+**Prediction Accuracy Analysis**
+
+Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analysis to quantitatively measure prediction accuracy, ensuring robust model evaluation.
+
+**Validation via Confusion Matrices**
+
+Established and interpreted confusion matrices to validate model predictions, providing a clear understanding of model performance and its practical implications.
 
 ### Dynamic Pricing Strategy Optimization
 
