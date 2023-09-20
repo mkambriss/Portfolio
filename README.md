@@ -30,20 +30,29 @@
 
 **Description**
 
-Developed a comprehensive Social Media Data Analysis and Recommendation System utilizing Python and the Twint library for data scraping. Employed a diverse range of machine learning algorithms, including:
-- K-Nearest Neighbors (KNN)
-- Recurrent Neural Networks (RNN)
-- Latent Dirichlet Allocation (LDA)
-- Support Vector Machines (SVM)
-- Logistic regression
-to deliver tailored content recommendations based on user interactions. Integrated Cross Validation techniques to rigorously assess and enhance algorithm performance. Utilized advanced data processing methods, such as pivot tables, cosine similarity, and rating matrices, to refine recommendation accuracy.
+Developed a comprehensive Social Media Data Analysis and Recommendation System utilizing Python and the Twint library for data scraping. This project aimed to provide tailored content recommendations based on user interactions by employing a diverse range of machine learning algorithms, including K-Nearest Neighbors (KNN), Recurrent Neural Networks (RNN), Latent Dirichlet Allocation (LDA), Support Vector Machines (SVM), and Logistic Regression.
 
 **Key Achievements**
 
-- Scrapped extensive datasets from various social media platforms, encompassing business information and COVID-19-related data, using Python and the Twint library.
-- Predicted the future impact of the global pandemic on companies by leveraging machine learning models and merging them with existing data.
-- Significantly improved recommendation accuracy, resulting in a more engaging user experience.
-- Demonstrated proficiency in data manipulation, Python programming, machine learning, and algorithm evaluation.
+**Data Scraping from Multiple Sources**
+
+Successfully scraped extensive datasets from various social media platforms, encompassing business information and COVID-19-related data, using Python and the Twint library, ensuring a rich and diverse source of data.
+
+**Pandemic Impact Prediction**
+
+Leveraged machine learning models to predict the future impact of the global pandemic on companies by merging social media data with existing information, contributing to data-driven decision-making.
+
+**Enhanced Recommendation Accuracy**
+
+Achieved a significant improvement in recommendation accuracy, resulting in a more engaging user experience and demonstrating the effectiveness of machine learning algorithms in content personalization.
+
+**Proficiency in Data Manipulation**
+
+Demonstrated proficiency in data manipulation, Python programming, and advanced data processing techniques such as pivot tables, cosine similarity, and rating matrices, highlighting the ability to work with complex datasets.
+
+**Machine Learning Expertise**
+
+Showcased expertise in machine learning by implementing a variety of algorithms, conducting rigorous algorithm evaluation, and integrating Cross Validation techniques to enhance algorithm performance.
 
 ### Stock Price Prediction using Machine Learning in Python
 
