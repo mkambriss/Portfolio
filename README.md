@@ -151,9 +151,11 @@ The project's dynamic pricing strategy implementation yielded remarkable results
 ### Instagram Reach Analysis Project
 
 **Description**
+
 In the dynamic world of social media, understanding the reach and impact of one's presence is crucial for effective engagement and content strategy. This project delves into the intricacies of my Instagram account, offering insights into how my content resonates with the platform's algorithms and my audience.
 
 **Objective**
+
 The primary goal of this project was to gain a deeper understanding of my Instagram reach and engagement by analyzing various aspects of my account's performance. I explored multiple dimensions to uncover patterns and correlations that could inform my content strategy.
 
 **Methodology**
