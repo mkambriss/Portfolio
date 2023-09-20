@@ -27,7 +27,9 @@
 
 ## Projects
 ### Social Media Data Analysis and Recommendation System
+
 **Description:**
+
 Developed a comprehensive Social Media Data Analysis and Recommendation System utilizing Python and the Twint library for data scraping. Employed a diverse range of machine learning algorithms, including:
 - K-Nearest Neighbors (KNN)
 - Recurrent Neural Networks (RNN)
@@ -35,6 +37,7 @@ Developed a comprehensive Social Media Data Analysis and Recommendation System u
 - Support Vector Machines (SVM)
 - Logistic regression
 to deliver tailored content recommendations based on user interactions. Integrated Cross Validation techniques to rigorously assess and enhance algorithm performance. Utilized advanced data processing methods, such as pivot tables, cosine similarity, and rating matrices, to refine recommendation accuracy.
+
 **Key Achievements:**
 - Scrapped extensive datasets from various social media platforms, encompassing business information and COVID-19-related data, using Python and the Twint library.
 - Predicted the future impact of the global pandemic on companies by leveraging machine learning models and merging them with existing data.
