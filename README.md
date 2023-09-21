@@ -25,6 +25,46 @@
 - Engaged in a research on MBBR systems for aquariums in AquaCity project.
 - Enrolled in financial due diligence reports for different companies.
 
+## Portfolio Highlights
+🚀 Welcome to my Data Science portfolio! 📊
+
+I'm passionate about leveraging data to gain insights, solve real-world problems, and deliver actionable results. Here are some of my notable projects that showcase my skills and expertise in data science and analytics:
+
+1. **Social Media Data Analysis and Recommendation System**
+   - 📅 Duration: Apr 2022 - Jul 2022
+   - 🔍 Description: Developed a recommendation system using machine learning algorithms for personalized content suggestions.
+   - [Explore](#social-media-data-analysis-and-recommendation-system)
+
+2. **Stock Price Prediction using Machine Learning in Python**
+   - 📅 Duration: Dec 2022 - Jan 2023
+   - 📈 Description: Analyzed and predicted stock prices, with a focus on Tesla's historical data.
+   - [Explore](#stock-price-prediction-using-machine-learning-in-python)
+
+3. **Fake News Detection System**
+   - 📅 Duration: Feb 2023 - May 2023
+   - 📰 Description: Created a system to detect fake news using natural language processing and machine learning techniques.
+   - [Explore](#fake-news-detection-system)
+
+4. **Dynamic Pricing Strategy Optimization**
+   - 📅 Duration: Apr 2023 - May 2023
+   - 💰 Description: Enhanced pricing strategies for a ride-sharing platform based on real-time demand and supply data.
+   - [Explore](#dynamic-pricing-strategy-optimization)
+
+5. **Instagram Reach Analysis**
+   - 📅 Duration: Jul 2023 - Aug 2023
+   - 📸 Description: Analyzed Instagram reach and engagement to optimize content strategy.
+   - [Explore](#instagram-reach-analysis)
+
+6. **Power BI Energy Consumption Analysis**
+   - 💡 Description: Analyzed and visualized energy consumption data using Power BI.
+   - [Explore](#power-bi-energy-consumption-analysis)
+
+Feel free to dive into any of these projects to learn more about my data-driven approach and problem-solving skills. Let's connect and explore the exciting possibilities of data together! 📈📊🤖
+
+📬 You can reach me at marwan.kambriss@hotmail.com
+
+Happy exploring! 🌟
+
 ## Projects
 ### Social Media Data Analysis and Recommendation System
 
