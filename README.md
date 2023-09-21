@@ -98,6 +98,23 @@ Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analys
 
 Established and interpreted confusion matrices to validate model predictions, providing a clear understanding of model performance and its practical implications.
 
+### Fake News Detection System
+
+**Description**
+
+Developed a Fake News Detection System using Python and machine learning.
+
+
+**Key Achievements**
+
+- Extracted a news dataset using Python.
+- Inserted the target feature as a column in the dataset.
+- Conducted manual testing by removing the last 10 rows for validation.
+- Applied data preprocessing techniques through a custom function.
+- Defined dependent and independent variables.
+- Implemented various machine learning methods, including Logistic Regression, Decision Tree, Gradient Booster Classifier, and Random Forest Classifier.
+- Created input and output functions for seamless interaction with the system.
+
 ### Dynamic Pricing Strategy Optimization
 
 **Description**
@@ -117,6 +134,7 @@ In the dynamic pricing strategy optimization project, I spearheaded the developm
 **Calculation of Demand and Supply Multipliers**
 
 - Developed algorithms to calculate demand and supply multipliers by comparing rider and driver counts with predefined percentiles. These calculations allowed real-time price adjustments based on market dynamics.
+
 Adjusted Ride Cost Formulation:
 
 - Devised a sophisticated formula for the adjusted ride cost, incorporating demand and supply multipliers, as well as caps and floors. This fine-tuned pricing mechanism ensured optimal pricing decisions.
