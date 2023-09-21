@@ -33,27 +33,33 @@ I'm passionate about leveraging data to gain insights, solve real-world problems
 1. **Social Media Data Analysis and Recommendation System**
    - 📅 Duration: Apr 2022 - Jul 2022
    - 🔍 Description: Developed a recommendation system using machine learning algorithms for personalized content suggestions.
-   - Explore Repository
+   - [Explore Project Details](#social-media-data-analysis-and-recommendation-system-details)
+   - [Explore Repository](https://github.com/mkambriss/-Social-Media-Data-Analysis-and-Recommendation-System-)
 
 2. **Stock Price Prediction using Machine Learning in Python**
    - 📅 Duration: Dec 2022 - Jan 2023
    - 📈 Description: Analyzed and predicted stock prices, with a focus on Tesla's historical data.
-   - Explore Repository
-
+   - [Explore Project Details](#stock-price-prediction-using-machine-learning-in-python-details)
+   - [Explore Repository](https://github.com/mkambriss/Stock-Market-Analysis)
+     
 3. **Fake News Detection System**
-   - 📅 Duration: Feb 2023 - May 2023
+   - 📅 Duration: Feb 2023 - March 2023
    - 📰 Description: Created a system to detect fake news using natural language processing and machine learning techniques.
-   - Explore Repository
+   - [Explore Project Details](#fake-news-detection-system-details)
+   - [Explore Repository](https://github.com/mkambriss/Fake-news-Detection)
 
 4. **Dynamic Pricing Strategy Optimization**
    - 📅 Duration: Apr 2023 - May 2023
    - 💰 Description: Enhanced pricing strategies for a ride-sharing platform based on real-time demand and supply data.
-   - Explore Repository
+   - [Explore Project Details](#dynamic-pricing-strategy-optimization-details)
+   - [Explore Repository](https://github.com/mkambriss/Dynamic-Pricing-Strategy)
 
-5. **Instagram Reach Analysis**
+5. **Instagram Reach Analysis Project**
    - 📅 Duration: Jul 2023 - Aug 2023
    - 📸 Description: Analyzed Instagram reach and engagement to optimize content strategy.
-   - Explore Repository
+   - [Explore Project Details](#instagram-reach-analysis-details)
+   - [Explore Repository](https://github.com/mkambriss/Instagram-Reach-Analysis)
+
 
 7. **Power BI Energy Consumption Analysis**
    - 💡 Description: Analyzed and visualized energy consumption data using Power BI.
