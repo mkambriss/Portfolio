@@ -230,13 +230,29 @@ Finally, I developed a predictive model to forecast future impressions based on 
 
 This Instagram Reach Analysis Project has equipped me with a comprehensive understanding of my Instagram presence. It has not only revealed key insights into audience behavior but has also provided a data-driven foundation for optimizing my content strategy. The predictive model developed as part of this project serves as a valuable tool for informed decision-making and continual improvement.
 
-**Key Takeaways**
+**Key Achievements**
 
 - Understanding the sources of impressions is essential for tailoring content.
 - Audience engagement, measured by likes, comments, shares, and saves, significantly impacts reach.
 - Hashtags play a crucial role in expanding the reach of content.
 - Data-driven insights enable informed content strategy and audience engagement efforts.
 
+### Energy Consumption Analysis with Power BI
 
+**Description**
 
+- Developed an interactive Power BI dashboard to analyze and visualize energy consumption data.
+- Utilized data from multiple sources, including smart meters and historical records.
+- Implemented data cleaning and transformation processes to ensure data accuracy.
+- Created dynamic visualizations that allow users to explore energy consumption patterns by time, location, and appliance usage.
+- Designed an intuitive user interface for non-technical stakeholders to easily interpret complex energy data.
+- Enabled real-time data refresh and automated reporting for timely decision-making.
+
+**Key Achievements**
+
+- Improved energy consumption monitoring and management, resulting in cost savings and reduced environmental impact.
+- Empowered stakeholders with actionable insights, facilitating data-driven decisions to optimize energy usage.
+- Enhanced data accessibility and usability for cross-functional teams, fostering collaboration in energy conservation efforts.
+- Increased transparency in energy consumption patterns, enabling proactive maintenance and resource allocation.
+- Demonstrated expertise in data integration, visualization, and user-centric design within the Power BI environment.
 
