@@ -33,7 +33,7 @@ I'm passionate about leveraging data to gain insights, solve real-world problems
 1. **Social Media Data Analysis and Recommendation System**
    - 📅 Duration: Apr 2022 - Jul 2022
    - 🔍 Description: Developed a recommendation system using machine learning algorithms for personalized content suggestions.
-   - [Explore](#social-media-data-analysis-and-recommendation-system)
+   - [Explore][#(https://github.com/mkambriss/-Social-Media-Data-Analysis-and-Recommendation-System-)]
 
 2. **Stock Price Prediction using Machine Learning in Python**
    - 📅 Duration: Dec 2022 - Jan 2023
