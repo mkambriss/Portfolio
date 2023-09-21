@@ -159,11 +159,8 @@ Profitability Analysis:
 The project's dynamic pricing strategy implementation yielded remarkable results:
 
 - Improved Pricing Accuracy: Achieved significant improvements in pricing accuracy, ensuring that prices better aligned with market demand and supply dynamics.
-
 - Increased Revenue: Successfully boosted revenue generation, contributing to the platform's financial growth and sustainability.
-
 - Enhanced User Experience: Elevated the overall user experience for both riders and drivers, fostering user loyalty and satisfaction.
-
 - Competitive Market Positioning: By implementing a data-driven pricing strategy, the platform positioned itself as a formidable competitor in the ride-sharing market.
 
 ### Instagram Reach Analysis Project
