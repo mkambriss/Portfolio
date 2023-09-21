@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dynamic Table of Contents</title>
+</head>
+<body>
+  <h1>Data Science Portfolio</h1>
+  
+  <div id="table-of-contents">
+    <h2>Table of Contents</h2>
+    <ul></ul>
+  </div>
+
+  <h2 id="project-1">Project 1: Social Media Data Analysis and Recommendation System</h2>
+  <p>Description and content of Project 1.</p>
+
+  <h2 id="project-2">Project 2: Stock Price Prediction using Machine Learning in Python</h2>
+  <p>Description and content of Project 2.</p>
+
+  <h2 id="project-3">Project 3: Fake News Detection System</h2>
+  <p>Description and content of Project 3.</p>
+
+  <h2 id="project-4">Project 4: Dynamic Pricing Strategy Optimization</h2>
+  <p>Description and content of Project 4.</p>
+
+  <h2 id="project-5">Project 5: Instagram Reach Analysis</h2>
+  <p>Description and content of Project 5.</p>
+
+  <h2 id="power-bi">Power BI Energy Consumption Analysis</h2>
+  <p>Description and content of the Power BI project.</p>
+
+  <script>
+    // Function to generate the dynamic table of contents
+    function generateTableOfContents() {
+      const tableOfContents = document.getElementById('table-of-contents').querySelector('ul');
+      const headings = document.querySelectorAll('h2[id], h3[id], h4[id], h5[id], h6[id]');
+      
+      headings.forEach(function (heading) {
+        const listItem = document.createElement('li');
+        const link = document.createElement('a');
+        link.textContent = heading.textContent;
+        link.href = '#' + heading.id;
+        listItem.appendChild(link);
+        tableOfContents.appendChild(listItem);
+      });
+    }
+    
+    // Call the function to generate the table of contents
+    generateTableOfContents();
+  </script>
+</body>
+</html>
