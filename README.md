@@ -61,9 +61,11 @@ I'm passionate about leveraging data to gain insights, solve real-world problems
    - [Explore Repository](https://github.com/mkambriss/Instagram-Reach-Analysis)
 
 
-7. **Power BI Energy Consumption Analysis**
+7.6. **Power BI Energy Consumption Analysis**
+   - 📅 Duration: Jul 2023 - Aug 2023
    - 💡 Description: Analyzed and visualized energy consumption data using Power BI.
-   - [Explore](#power-bi-energy-consumption-analysis)
+   - [Explore Project Details](#power-bi-energy-consumption-analysis-details)
+   - [Explore Repository](https://github.com/mkambriss/Power-BI-Energy-Consumption-Analysis)
 
 Feel free to dive into any of these projects to learn more about my data-driven approach and problem-solving skills. Let's connect and explore the exciting possibilities of data together! 📈📊🤖
 
