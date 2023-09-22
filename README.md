@@ -29,42 +29,41 @@
 
 I'm passionate about leveraging data to gain insights, solve real-world problems, and deliver actionable results. Here are some of my notable projects that showcase my skills and expertise in data science and analytics:
 
-1. **Social Media Data Analysis and Recommendation System**
-   - 📅 Duration: Apr 2022 - Jul 2022
-   - 🔍 Description: Developed a recommendation system using machine learning algorithms for personalized content suggestions.
-   - [Explore Project Details](#social-media-data-analysis-and-recommendation-system)
-   - [Explore Repository](https://github.com/mkambriss/-Social-Media-Data-Analysis-and-Recommendation-System-)
+1. **Power Bi Energy Consumption Analysis**
+   - 📅 Duration: Jul 2023 - Aug 2023
+   - 💡 Description: Analyzed and visualized energy consumption data using Power BI.
+   - [Explore Project Details](#power-bi-energy-consumption-analysis)
+   - [Explore Repository](https://github.com/mkambriss/Power-BI-Energy-Consumption-Analysis)
 
-2. **Stock Price Prediction using Machine Learning in Python**
-   - 📅 Duration: Dec 2022 - Jan 2023
-   - 📈 Description: Analyzed and predicted stock prices, with a focus on Tesla's historical data.
-   - [Explore Project Details](#stock-price-prediction-using-machine-learning-in-python)
-   - [Explore Repository](https://github.com/mkambriss/Stock-Market-Analysis)
+2.**Instagram Reach Analysis Project**
+   - 📅 Duration: Jul 2023 - Aug 2023
+   - 📸 Description: Analyzed Instagram reach and engagement to optimize content strategy.
+   - [Explore Project Details](#instagram-reach-analysis-project)
+   - [Explore Repository](https://github.com/mkambriss/Instagram-Reach-Analysis)
+   
+3. **Dynamic Pricing Strategy Optimization**
+   - 📅 Duration: Apr 2023 - May 2023
+   - 💰 Description: Enhanced pricing strategies for a ride-sharing platform based on real-time demand and supply data.
+   - [Explore Project Details](#dynamic-pricing-strategy-optimization)
+   - [Explore Repository](https://github.com/mkambriss/Dynamic-Pricing-Strategy)
      
-3. **Fake News Detection System**
+4. **Fake News Detection System**
    - 📅 Duration: Feb 2023 - March 2023
    - 📰 Description: Created a system to detect fake news using natural language processing and machine learning techniques.
    - [Explore Project Details](#fake-news-detection-system)
    - [Explore Repository](https://github.com/mkambriss/Fake-news-Detection)
 
-4. **Dynamic Pricing Strategy Optimization**
-   - 📅 Duration: Apr 2023 - May 2023
-   - 💰 Description: Enhanced pricing strategies for a ride-sharing platform based on real-time demand and supply data.
-   - [Explore Project Details](#dynamic-pricing-strategy-optimization)
-   - [Explore Repository](https://github.com/mkambriss/Dynamic-Pricing-Strategy)
-
-5. **Instagram Reach Analysis Project**
-   - 📅 Duration: Jul 2023 - Aug 2023
-   - 📸 Description: Analyzed Instagram reach and engagement to optimize content strategy.
-   - [Explore Project Details](#instagram-reach-analysis-project)
-   - [Explore Repository](https://github.com/mkambriss/Instagram-Reach-Analysis)
-
-
-6. **Power Bi Energy Consumption Analysis**
-   - 📅 Duration: Jul 2023 - Aug 2023
-   - 💡 Description: Analyzed and visualized energy consumption data using Power BI.
-   - [Explore Project Details](#power-bi-energy-consumption-analysis)
-   - [Explore Repository](https://github.com/mkambriss/Power-BI-Energy-Consumption-Analysis)
+5.  **Stock Price Prediction using Machine Learning in Python**
+   - 📅 Duration: Dec 2022 - Jan 2023
+   - 📈 Description: Analyzed and predicted stock prices, with a focus on Tesla's historical data.
+   - [Explore Project Details](#stock-price-prediction-using-machine-learning-in-python)
+   - [Explore Repository](https://github.com/mkambriss/Stock-Market-Analysis)
+     
+6. **Social Media Data Analysis and Recommendation System**
+   - 📅 Duration: Apr 2022 - Jul 2022
+   - 🔍 Description: Developed a recommendation system using machine learning algorithms for personalized content suggestions.
+   - [Explore Project Details](#social-media-data-analysis-and-recommendation-system)
+   - [Explore Repository](https://github.com/mkambriss/-Social-Media-Data-Analysis-and-Recommendation-System-)
 
 Feel free to dive into any of these projects to learn more about my data-driven approach and problem-solving skills. Let's connect and explore the exciting possibilities of data together! 📈📊🤖
 
@@ -73,139 +72,23 @@ Feel free to dive into any of these projects to learn more about my data-driven 
 Happy exploring! 🌟
 
 ## Projects
-### Social Media Data Analysis and Recommendation System
+### Power Bi Energy Consumption Analysis
 **Description**
 
-Developed a comprehensive Social Media Data Analysis and Recommendation System utilizing Python and the Twint library for data scraping. This project aimed to provide tailored content recommendations based on user interactions by employing a diverse range of machine learning algorithms, including K-Nearest Neighbors (KNN), Recurrent Neural Networks (RNN), Latent Dirichlet Allocation (LDA), Support Vector Machines (SVM), and Logistic Regression.
+- Developed an interactive Power BI dashboard to analyze and visualize energy consumption data.
+- Utilized data from multiple sources, including smart meters and historical records.
+- Implemented data cleaning and transformation processes to ensure data accuracy.
+- Created dynamic visualizations that allow users to explore energy consumption patterns by time, location, and appliance usage.
+- Designed an intuitive user interface for non-technical stakeholders to easily interpret complex energy data.
+- Enabled real-time data refresh and automated reporting for timely decision-making.
 
 **Key Achievements**
 
-**Data Scraping from Multiple Sources**
-
-Successfully scraped extensive datasets from various social media platforms, encompassing business information and COVID-19-related data, using Python and the Twint library, ensuring a rich and diverse source of data.
-
-**Pandemic Impact Prediction**
-
-Leveraged machine learning models to predict the future impact of the global pandemic on companies by merging social media data with existing information, contributing to data-driven decision-making.
-
-**Enhanced Recommendation Accuracy**
-
-Achieved a significant improvement in recommendation accuracy, resulting in a more engaging user experience and demonstrating the effectiveness of machine learning algorithms in content personalization.
-
-**Proficiency in Data Manipulation**
-
-Demonstrated proficiency in data manipulation, Python programming, and advanced data processing techniques such as pivot tables, cosine similarity, and rating matrices, highlighting the ability to work with complex datasets.
-
-**Machine Learning Expertise**
-
-Showcased expertise in machine learning by implementing a variety of algorithms, conducting rigorous algorithm evaluation, and integrating Cross Validation techniques to enhance algorithm performance.
-
-### Stock Price Prediction using Machine Learning in Python
-
-**Description**
-
-Developed a comprehensive Stock Price Prediction project using Python, with a specific focus on analyzing Tesla's historical stock movements spanning from 2010 to 2020. This project involved a multi-faceted approach, encompassing data extraction, exploratory data analysis (EDA), and the application of advanced machine learning techniques to gain valuable insights into stock price trends and quarterly performance effects.
-
-**Key Achievements**
-
-**Data Extraction and Processing**
-
-Successfully extracted and processed Tesla's extensive historical stock data, covering a substantial period from 2010 to 2020, ensuring the availability of clean and structured data for analysis.
-
-**Exploratory Data Analysis (EDA)**
-
-Conducted a comprehensive EDA to unveil critical trends, patterns, and underlying assumptions within the dataset, providing valuable context for subsequent analysis.
-
-**Visualization of Stock Price Movements**
-
-Effectively analyzed and visualized stock price movements over time, with a specific focus on how end-of-quarter data influenced stock prices. This visualization provided key insights into quarterly performance effects.
-
-**OHLC Chart Creation**
-
-Created Open-High-Low-Close (OHLC) charts to depict variations in stock data, including Volume, Open price, Close price, High, and Low, aiding in understanding stock price dynamics.
-
-**Date Column Engineering**
-
-Engineered the date column into three distinct columns: "Day," "Month," and "Year," facilitating further time-based analysis and feature engineering.
-
-**Quarterly Performance Assessment**
-
-Grouped data based on quarter-end dates, streamlining the assessment of quarterly performance effects and enabling data-driven decision-making.
-
-**Machine Learning Implementation**
-
-Implemented machine learning algorithms, including Logistic Regression, Support Vector Machines (SVM), and XGBClassifier, to predict stock price movements, contributing to the predictive modeling aspect of the project.
-
-**Prediction Accuracy Analysis**
-
-Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analysis to quantitatively measure prediction accuracy, ensuring robust model evaluation.
-
-**Validation via Confusion Matrices**
-
-Established and interpreted confusion matrices to validate model predictions, providing a clear understanding of model performance and its practical implications.
-
-### Fake News Detection System
-**Description**
-
-Developed a Fake News Detection System using Python and machine learning.
-
-
-**Key Achievements**
-
-- Extracted a news dataset using Python.
-- Inserted the target feature as a column in the dataset.
-- Conducted manual testing by removing the last 10 rows for validation.
-- Applied data preprocessing techniques through a custom function.
-- Defined dependent and independent variables.
-- Implemented various machine learning methods, including Logistic Regression, Decision Tree, Gradient Booster Classifier, and Random Forest Classifier.
-- Created input and output functions for seamless interaction with the system.
-
-### Dynamic Pricing Strategy Optimization
-**Description**
-
-In the dynamic pricing strategy optimization project, I spearheaded the development and implementation of a data-driven pricing strategy for a prominent ride-sharing platform. The primary goal was to dynamically adjust pricing in response to real-time variations in demand and supply levels, enhancing the platform's competitiveness and profitability.
-
-**Key Achievements**
-
-**Enhanced Pricing Strategy for Revenue Maximization**
-
-- Successfully enhanced the ride-sharing platform's pricing strategy to maximize revenue and maintain competitiveness in the market.
-
-**Led Implementation of Critical Components**
-
-- As a key contributor, took charge of implementing crucial components that drove the project's success:
-
-**Calculation of Demand and Supply Multipliers**
-
-- Developed algorithms to calculate demand and supply multipliers by comparing rider and driver counts with predefined percentiles. These calculations allowed real-time price adjustments based on market dynamics.
-
-Adjusted Ride Cost Formulation:
-
-- Devised a sophisticated formula for the adjusted ride cost, incorporating demand and supply multipliers, as well as caps and floors. This fine-tuned pricing mechanism ensured optimal pricing decisions.
-
-**Exploratory Data Analysis (EDA)**
-
-- Conducted a comprehensive EDA, unearthing insights into the intricate relationship between expected ride duration, historical ride cost, and various factors. These findings significantly informed our pricing strategies.
-Profitability Analysis:
-
-- Calculated the profitability of diverse ride types, enabling strategic focus on the most lucrative opportunities and maximizing overall profitability.
-
-**Predictive Modeling**
-
-- Spearheaded the development and training of a Random Forest Regression model. This model accurately predicted optimal ride prices, further enhancing pricing precision and efficiency.
-
-**Overcame Challenges**
-
-- Navigated and resolved various challenges throughout the project, including managing large volumes of real-time data, ensuring fair price adjustments for both riders and drivers, and optimizing algorithms for swift responses to changing market conditions.
-
-**Impressive Outcomes**
-
-The project's dynamic pricing strategy implementation yielded remarkable results:
-
-- Improved Pricing Accuracy: Achieved significant improvements in pricing accuracy, ensuring that prices better aligned with market demand and supply dynamics.
-- Increased Revenue: Successfully boosted revenue generation, contributing to the platform's financial growth and sustainability.
-- Enhanced User Experience: Elevated the overall user experience for both riders and drivers, fostering user loyalty and satisfaction.
-- Competitive Market Positioning: By implementing a data-driven pricing strategy, the platform positioned itself as a formidable competitor in the ride-sharing market.
+- Improved energy consumption monitoring and management, resulting in cost savings and reduced environmental impact.
+- Empowered stakeholders with actionable insights, facilitating data-driven decisions to optimize energy usage.
+- Enhanced data accessibility and usability for cross-functional teams, fostering collaboration in energy conservation efforts.
+- Increased transparency in energy consumption patterns, enabling proactive maintenance and resource allocation.
+- Demonstrated expertise in data integration, visualization, and user-centric design within the Power BI environment.
 
 ### Instagram Reach Analysis Project
 **Description**
@@ -277,21 +160,140 @@ This Instagram Reach Analysis Project has equipped me with a comprehensive under
 - Hashtags play a crucial role in expanding the reach of content.
 - Data-driven insights enable informed content strategy and audience engagement efforts.
 
-### Power Bi Energy Consumption Analysis
+### Dynamic Pricing Strategy Optimization
 **Description**
 
-- Developed an interactive Power BI dashboard to analyze and visualize energy consumption data.
-- Utilized data from multiple sources, including smart meters and historical records.
-- Implemented data cleaning and transformation processes to ensure data accuracy.
-- Created dynamic visualizations that allow users to explore energy consumption patterns by time, location, and appliance usage.
-- Designed an intuitive user interface for non-technical stakeholders to easily interpret complex energy data.
-- Enabled real-time data refresh and automated reporting for timely decision-making.
+In the dynamic pricing strategy optimization project, I spearheaded the development and implementation of a data-driven pricing strategy for a prominent ride-sharing platform. The primary goal was to dynamically adjust pricing in response to real-time variations in demand and supply levels, enhancing the platform's competitiveness and profitability.
 
 **Key Achievements**
 
-- Improved energy consumption monitoring and management, resulting in cost savings and reduced environmental impact.
-- Empowered stakeholders with actionable insights, facilitating data-driven decisions to optimize energy usage.
-- Enhanced data accessibility and usability for cross-functional teams, fostering collaboration in energy conservation efforts.
-- Increased transparency in energy consumption patterns, enabling proactive maintenance and resource allocation.
-- Demonstrated expertise in data integration, visualization, and user-centric design within the Power BI environment.
+**Enhanced Pricing Strategy for Revenue Maximization**
+
+- Successfully enhanced the ride-sharing platform's pricing strategy to maximize revenue and maintain competitiveness in the market.
+
+**Led Implementation of Critical Components**
+
+- As a key contributor, took charge of implementing crucial components that drove the project's success:
+
+**Calculation of Demand and Supply Multipliers**
+
+- Developed algorithms to calculate demand and supply multipliers by comparing rider and driver counts with predefined percentiles. These calculations allowed real-time price adjustments based on market dynamics.
+
+Adjusted Ride Cost Formulation:
+
+- Devised a sophisticated formula for the adjusted ride cost, incorporating demand and supply multipliers, as well as caps and floors. This fine-tuned pricing mechanism ensured optimal pricing decisions.
+
+**Exploratory Data Analysis (EDA)**
+
+- Conducted a comprehensive EDA, unearthing insights into the intricate relationship between expected ride duration, historical ride cost, and various factors. These findings significantly informed our pricing strategies.
+Profitability Analysis:
+
+- Calculated the profitability of diverse ride types, enabling strategic focus on the most lucrative opportunities and maximizing overall profitability.
+
+**Predictive Modeling**
+
+- Spearheaded the development and training of a Random Forest Regression model. This model accurately predicted optimal ride prices, further enhancing pricing precision and efficiency.
+
+**Overcame Challenges**
+
+- Navigated and resolved various challenges throughout the project, including managing large volumes of real-time data, ensuring fair price adjustments for both riders and drivers, and optimizing algorithms for swift responses to changing market conditions.
+
+**Impressive Outcomes**
+
+The project's dynamic pricing strategy implementation yielded remarkable results:
+
+- Improved Pricing Accuracy: Achieved significant improvements in pricing accuracy, ensuring that prices better aligned with market demand and supply dynamics.
+- Increased Revenue: Successfully boosted revenue generation, contributing to the platform's financial growth and sustainability.
+- Enhanced User Experience: Elevated the overall user experience for both riders and drivers, fostering user loyalty and satisfaction.
+- Competitive Market Positioning: By implementing a data-driven pricing strategy, the platform positioned itself as a formidable competitor in the ride-sharing market.
+
+### Fake News Detection System
+**Description**
+
+Developed a Fake News Detection System using Python and machine learning.
+
+
+**Key Achievements**
+
+- Extracted a news dataset using Python.
+- Inserted the target feature as a column in the dataset.
+- Conducted manual testing by removing the last 10 rows for validation.
+- Applied data preprocessing techniques through a custom function.
+- Defined dependent and independent variables.
+- Implemented various machine learning methods, including Logistic Regression, Decision Tree, Gradient Booster Classifier, and Random Forest Classifier.
+- Created input and output functions for seamless interaction with the system.
+
+### Stock Price Prediction using Machine Learning in Python
+
+**Description**
+
+Developed a comprehensive Stock Price Prediction project using Python, with a specific focus on analyzing Tesla's historical stock movements spanning from 2010 to 2020. This project involved a multi-faceted approach, encompassing data extraction, exploratory data analysis (EDA), and the application of advanced machine learning techniques to gain valuable insights into stock price trends and quarterly performance effects.
+
+**Key Achievements**
+
+**Data Extraction and Processing**
+
+Successfully extracted and processed Tesla's extensive historical stock data, covering a substantial period from 2010 to 2020, ensuring the availability of clean and structured data for analysis.
+
+**Exploratory Data Analysis (EDA)**
+
+Conducted a comprehensive EDA to unveil critical trends, patterns, and underlying assumptions within the dataset, providing valuable context for subsequent analysis.
+
+**Visualization of Stock Price Movements**
+
+Effectively analyzed and visualized stock price movements over time, with a specific focus on how end-of-quarter data influenced stock prices. This visualization provided key insights into quarterly performance effects.
+
+**OHLC Chart Creation**
+
+Created Open-High-Low-Close (OHLC) charts to depict variations in stock data, including Volume, Open price, Close price, High, and Low, aiding in understanding stock price dynamics.
+
+**Date Column Engineering**
+
+Engineered the date column into three distinct columns: "Day," "Month," and "Year," facilitating further time-based analysis and feature engineering.
+
+**Quarterly Performance Assessment**
+
+Grouped data based on quarter-end dates, streamlining the assessment of quarterly performance effects and enabling data-driven decision-making.
+
+**Machine Learning Implementation**
+
+Implemented machine learning algorithms, including Logistic Regression, Support Vector Machines (SVM), and XGBClassifier, to predict stock price movements, contributing to the predictive modeling aspect of the project.
+
+**Prediction Accuracy Analysis**
+
+Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analysis to quantitatively measure prediction accuracy, ensuring robust model evaluation.
+
+**Validation via Confusion Matrices**
+
+Established and interpreted confusion matrices to validate model predictions, providing a clear understanding of model performance and its practical implications.
+  
+### Social Media Data Analysis and Recommendation System
+**Description**
+
+Developed a comprehensive Social Media Data Analysis and Recommendation System utilizing Python and the Twint library for data scraping. This project aimed to provide tailored content recommendations based on user interactions by employing a diverse range of machine learning algorithms, including K-Nearest Neighbors (KNN), Recurrent Neural Networks (RNN), Latent Dirichlet Allocation (LDA), Support Vector Machines (SVM), and Logistic Regression.
+
+**Key Achievements**
+
+**Data Scraping from Multiple Sources**
+
+Successfully scraped extensive datasets from various social media platforms, encompassing business information and COVID-19-related data, using Python and the Twint library, ensuring a rich and diverse source of data.
+
+**Pandemic Impact Prediction**
+
+Leveraged machine learning models to predict the future impact of the global pandemic on companies by merging social media data with existing information, contributing to data-driven decision-making.
+
+**Enhanced Recommendation Accuracy**
+
+Achieved a significant improvement in recommendation accuracy, resulting in a more engaging user experience and demonstrating the effectiveness of machine learning algorithms in content personalization.
+
+**Proficiency in Data Manipulation**
+
+Demonstrated proficiency in data manipulation, Python programming, and advanced data processing techniques such as pivot tables, cosine similarity, and rating matrices, highlighting the ability to work with complex datasets.
+
+**Machine Learning Expertise**
+
+Showcased expertise in machine learning by implementing a variety of algorithms, conducting rigorous algorithm evaluation, and integrating Cross Validation techniques to enhance algorithm performance.
+
+
+
 
