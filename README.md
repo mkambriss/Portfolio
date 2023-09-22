@@ -35,29 +35,29 @@ I'm passionate about leveraging data to gain insights, solve real-world problems
    - [Explore Project Details](#power-bi-energy-consumption-analysis)
    - [Explore Repository](https://github.com/mkambriss/Power-BI-Energy-Consumption-Analysis)
 
-2.**Instagram Reach Analysis Project**
+2. **Instagram Reach Analysis Project**
    - 📅 Duration: Jul 2023 - Aug 2023
    - 📸 Description: Analyzed Instagram reach and engagement to optimize content strategy.
    - [Explore Project Details](#instagram-reach-analysis-project)
    - [Explore Repository](https://github.com/mkambriss/Instagram-Reach-Analysis)
    
-3. **Dynamic Pricing Strategy Optimization**
+4. **Dynamic Pricing Strategy Optimization**
    - 📅 Duration: Apr 2023 - May 2023
    - 💰 Description: Enhanced pricing strategies for a ride-sharing platform based on real-time demand and supply data.
    - [Explore Project Details](#dynamic-pricing-strategy-optimization)
    - [Explore Repository](https://github.com/mkambriss/Dynamic-Pricing-Strategy)
      
-4. **Fake News Detection System**
+5. **Fake News Detection System**
    - 📅 Duration: Feb 2023 - March 2023
    - 📰 Description: Created a system to detect fake news using natural language processing and machine learning techniques.
    - [Explore Project Details](#fake-news-detection-system)
    - [Explore Repository](https://github.com/mkambriss/Fake-news-Detection)
 
-5.  **Stock Price Prediction using Machine Learning in Python**
-   - 📅 Duration: Dec 2022 - Jan 2023
-   - 📈 Description: Analyzed and predicted stock prices, with a focus on Tesla's historical data.
-   - [Explore Project Details](#stock-price-prediction-using-machine-learning-in-python)
-   - [Explore Repository](https://github.com/mkambriss/Stock-Market-Analysis)
+6.  **Stock Price Prediction using Machine Learning in Python**
+    - 📅 Duration: Dec 2022 - Jan 2023
+    - 📈 Description: Analyzed and predicted stock prices, with a focus on Tesla's historical data.
+    - [Explore Project Details](#stock-price-prediction-using-machine-learning-in-python)
+    - [Explore Repository](https://github.com/mkambriss/Stock-Market-Analysis)
      
 6. **Social Media Data Analysis and Recommendation System**
    - 📅 Duration: Apr 2022 - Jul 2022
