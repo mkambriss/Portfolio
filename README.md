@@ -26,7 +26,6 @@
 - Enrolled in financial due diligence reports for different companies.
 
 ## Portfolio Highlights
-🚀 Welcome to my Data Science portfolio! 📊
 
 I'm passionate about leveraging data to gain insights, solve real-world problems, and deliver actionable results. Here are some of my notable projects that showcase my skills and expertise in data science and analytics:
 
