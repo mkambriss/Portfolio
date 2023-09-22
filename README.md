@@ -74,7 +74,7 @@ Feel free to dive into any of these projects to learn more about my data-driven 
 Happy exploring! 🌟
 
 ## Projects
-### Social Media Data Analysis and Recommendation System
+## Social Media Data Analysis and Recommendation System
 
 **Description**
 
@@ -102,7 +102,7 @@ Demonstrated proficiency in data manipulation, Python programming, and advanced 
 
 Showcased expertise in machine learning by implementing a variety of algorithms, conducting rigorous algorithm evaluation, and integrating Cross Validation techniques to enhance algorithm performance.
 
-### Stock Price Prediction using Machine Learning in Python
+## Stock Price Prediction using Machine Learning in Python
 
 **Description**
 
@@ -146,7 +146,7 @@ Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analys
 
 Established and interpreted confusion matrices to validate model predictions, providing a clear understanding of model performance and its practical implications.
 
-### Fake News Detection System
+## Fake News Detection System
 
 **Description**
 
@@ -163,7 +163,7 @@ Developed a Fake News Detection System using Python and machine learning.
 - Implemented various machine learning methods, including Logistic Regression, Decision Tree, Gradient Booster Classifier, and Random Forest Classifier.
 - Created input and output functions for seamless interaction with the system.
 
-### Dynamic Pricing Strategy Optimization
+## Dynamic Pricing Strategy Optimization
 
 **Description**
 
@@ -211,7 +211,7 @@ The project's dynamic pricing strategy implementation yielded remarkable results
 - Enhanced User Experience: Elevated the overall user experience for both riders and drivers, fostering user loyalty and satisfaction.
 - Competitive Market Positioning: By implementing a data-driven pricing strategy, the platform positioned itself as a formidable competitor in the ride-sharing market.
 
-### Instagram Reach Analysis Project
+## Instagram Reach Analysis Project
 
 **Description**
 
@@ -282,7 +282,7 @@ This Instagram Reach Analysis Project has equipped me with a comprehensive under
 - Hashtags play a crucial role in expanding the reach of content.
 - Data-driven insights enable informed content strategy and audience engagement efforts.
 
-### Energy Consumption Analysis with Power BI
+## Energy Consumption Analysis with Power BI
 
 **Description**
 
