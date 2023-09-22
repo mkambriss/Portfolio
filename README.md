@@ -278,7 +278,7 @@ This Instagram Reach Analysis Project has equipped me with a comprehensive under
 - Hashtags play a crucial role in expanding the reach of content.
 - Data-driven insights enable informed content strategy and audience engagement efforts.
 
-### Power BI Energy Consumption Analysis
+### Power Bi Energy Consumption Analysis
 **Description**
 
 - Developed an interactive Power BI dashboard to analyze and visualize energy consumption data.
