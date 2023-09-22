@@ -39,32 +39,32 @@ I'm passionate about leveraging data to gain insights, solve real-world problems
 2. **Stock Price Prediction using Machine Learning in Python**
    - 📅 Duration: Dec 2022 - Jan 2023
    - 📈 Description: Analyzed and predicted stock prices, with a focus on Tesla's historical data.
-   - [Explore Project Details](#stock-price-prediction-using-machine-learning-in-python-details)
+   - [Explore Project Details](#stock-price-prediction-using-machine-learning-in-python)
    - [Explore Repository](https://github.com/mkambriss/Stock-Market-Analysis)
      
 3. **Fake News Detection System**
    - 📅 Duration: Feb 2023 - March 2023
    - 📰 Description: Created a system to detect fake news using natural language processing and machine learning techniques.
-   - [Explore Project Details](#fake-news-detection-system-details)
+   - [Explore Project Details](#fake-news-detection-system)
    - [Explore Repository](https://github.com/mkambriss/Fake-news-Detection)
 
 4. **Dynamic Pricing Strategy Optimization**
    - 📅 Duration: Apr 2023 - May 2023
    - 💰 Description: Enhanced pricing strategies for a ride-sharing platform based on real-time demand and supply data.
-   - [Explore Project Details](#dynamic-pricing-strategy-optimization-details)
+   - [Explore Project Details](#dynamic-pricing-strategy-optimization)
    - [Explore Repository](https://github.com/mkambriss/Dynamic-Pricing-Strategy)
 
 5. **Instagram Reach Analysis Project**
    - 📅 Duration: Jul 2023 - Aug 2023
    - 📸 Description: Analyzed Instagram reach and engagement to optimize content strategy.
-   - [Explore Project Details](#instagram-reach-analysis-details)
+   - [Explore Project Details](#instagram-reach-analysis)
    - [Explore Repository](https://github.com/mkambriss/Instagram-Reach-Analysis)
 
 
 6. **Power BI Energy Consumption Analysis**
    - 📅 Duration: Jul 2023 - Aug 2023
    - 💡 Description: Analyzed and visualized energy consumption data using Power BI.
-   - [Explore Project Details](#power-bi-energy-consumption-analysis-details)
+   - [Explore Project Details](#power-bi-energy-consumption-analysis)
    - [Explore Repository](https://github.com/mkambriss/Power-BI-Energy-Consumption-Analysis)
 
 Feel free to dive into any of these projects to learn more about my data-driven approach and problem-solving skills. Let's connect and explore the exciting possibilities of data together! 📈📊🤖
@@ -146,7 +146,6 @@ Utilized Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) analys
 Established and interpreted confusion matrices to validate model predictions, providing a clear understanding of model performance and its practical implications.
 
 ### Fake News Detection System
-
 **Description**
 
 Developed a Fake News Detection System using Python and machine learning.
@@ -163,7 +162,6 @@ Developed a Fake News Detection System using Python and machine learning.
 - Created input and output functions for seamless interaction with the system.
 
 ### Dynamic Pricing Strategy Optimization
-
 **Description**
 
 In the dynamic pricing strategy optimization project, I spearheaded the development and implementation of a data-driven pricing strategy for a prominent ride-sharing platform. The primary goal was to dynamically adjust pricing in response to real-time variations in demand and supply levels, enhancing the platform's competitiveness and profitability.
@@ -211,7 +209,6 @@ The project's dynamic pricing strategy implementation yielded remarkable results
 - Competitive Market Positioning: By implementing a data-driven pricing strategy, the platform positioned itself as a formidable competitor in the ride-sharing market.
 
 ### Instagram Reach Analysis Project
-
 **Description**
 
 In the dynamic world of social media, understanding the reach and impact of one's presence is crucial for effective engagement and content strategy. This project delves into the intricacies of my Instagram account, offering insights into how my content resonates with the platform's algorithms and my audience.
@@ -282,7 +279,6 @@ This Instagram Reach Analysis Project has equipped me with a comprehensive under
 - Data-driven insights enable informed content strategy and audience engagement efforts.
 
 ### Energy Consumption Analysis with Power BI
-
 **Description**
 
 - Developed an interactive Power BI dashboard to analyze and visualize energy consumption data.
