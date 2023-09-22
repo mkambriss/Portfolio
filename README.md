@@ -75,7 +75,6 @@ Happy exploring! 🌟
 
 ## Projects
 ### Social Media Data Analysis and Recommendation System
-
 **Description**
 
 Developed a comprehensive Social Media Data Analysis and Recommendation System utilizing Python and the Twint library for data scraping. This project aimed to provide tailored content recommendations based on user interactions by employing a diverse range of machine learning algorithms, including K-Nearest Neighbors (KNN), Recurrent Neural Networks (RNN), Latent Dirichlet Allocation (LDA), Support Vector Machines (SVM), and Logistic Regression.
