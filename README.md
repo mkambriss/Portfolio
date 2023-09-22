@@ -57,7 +57,7 @@ I'm passionate about leveraging data to gain insights, solve real-world problems
 5. **Instagram Reach Analysis Project**
    - 📅 Duration: Jul 2023 - Aug 2023
    - 📸 Description: Analyzed Instagram reach and engagement to optimize content strategy.
-   - [Explore Project Details](#instagram-reach-analysis)
+   - [Explore Project Details](#instagram-reach-analysis-project)
    - [Explore Repository](https://github.com/mkambriss/Instagram-Reach-Analysis)
 
 
