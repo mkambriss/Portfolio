@@ -1,4 +1,4 @@
-# Data Scientist/Financial Analyst
+# ML Engineer/ Data Scientist/ Financial Analyst
 
 #### Technical Skills: Machine Learning, Python , Data Analysis, Financial Reporting, Power Bi, Tableau
 
@@ -27,8 +27,14 @@
 
 ## Portfolio Highlights
 
-I'm passionate about leveraging data to gain insights, solve real-world problems, and deliver actionable results. Here are some of my notable projects that showcase my skills and expertise in data science and analytics:
+I'm passionate about leveraging data and machine learning to gain insights, solve real-world problems, and deliver actionable results. Here are some of my notable projects that showcase my skills and expertise in data science, analytics, and machine learning.
 
+1. **Fraud Anamoly Detection for ID Documents**
+   - 📅 Duration: May 2024 - July 2024
+   - 💡 Description: Developed and designed a model that identifies physical tampering within the Machine Readable Zone (MRZ) of passports, ensuring the integrity and security of document verification processes.  
+   - [Explore Project Details](#fraud-anomaly-detection-for-id-documents)
+   - 
+   
 1. **Power Bi Energy Consumption Analysis**
    - 📅 Duration: Jul 2023 - Aug 2023
    - 💡 Description: Analyzed and visualized energy consumption data using Power BI.
@@ -72,6 +78,85 @@ Feel free to dive into any of these projects to learn more about my data-driven 
 Happy exploring! 🌟
 
 ## Projects
+### Fraud Anamoly Detection for ID Documents
+**Description**
+
+- The model evaluates each character in an image from the passport's Machine Readable Zone (MRZ) to determine its authenticity.
+- The model has a method and a class that help to inspect each letter individually , if any tampering is detected the model will classify the passport as fake.
+- Open CV library was used to detect the Machine Readable Zone (MRZ).
+- Worked on Splitting the MRZ into lines and Letters.
+- Utilized CV techniques for the Real Class to extract MRZ characters from 99 Serbian Characters.
+- Applied the grayscale conversion to reduce the noise and enhance the generalization across different types of passports.
+- Used TextRecognitionDataGenerator library to create synthetic images for the fake class.
+- Created a Sequential Model with optimization focus.
+- Developed a flask application that enables users to upload passport images for authentication.
+- Implemented OCR to recognize and display output characters from passport images (Character by Character Recognition).
+
+**Methodology**
+
+**Image Preprocessing**
+
+- Used OpenCV to detect the MRZ in passport images.
+- Split the MRZ into individual lines and characters for detailed analysis.
+  
+**Character Extraction**
+
+- Utilized advanced CV techniques to extract characters from the MRZ.
+- Applied grayscale conversion to enhance image quality and reduce noise.
+
+**Synthetic Data Generation**
+
+- Leveraged the TextRecognitionDataGenerator library to generate synthetic images for training the model to recognize fake characters.
+
+**Model Training and Optimization**
+
+- Developed a sequential model focused on optimizing character recognition and classification accuracy.
+- Applied various machine learning techniques to enhance model performance.
+
+**Application Development**
+
+- Built a user-friendly flask application to allow users to upload passport images for real-time authentication.
+- Integrated OCR for accurate character recognition and output display.
+
+**Key Achievements**
+
+**Developed a Robust Authentication Model**
+
+- Created a machine learning model capable of evaluating each character in a passport's Machine Readable Zone (MRZ) to determine authenticity, effectively identifying tampered documents.
+
+**Innovative Character Detection and Classification**
+
+- Implemented methods and classes to inspect each MRZ letter individually, ensuring precise detection and classification of tampered characters.
+
+**Advanced Image Processing**
+
+- Utilized the OpenCV library to detect and split the MRZ into lines and letters, facilitating accurate character extraction and analysis.
+
+**Optimized Character Extraction**
+
+- Applied computer vision techniques to extract MRZ characters from 99 Serbian characters, enhancing the model's capability to handle diverse passport types.
+
+**Noise Reduction and Generalization**
+
+- Implemented grayscale conversion to reduce noise, improving the model's generalization across various passport formats and types.
+
+**Synthetic Data Generation for Robust Training**
+
+- Used the TextRecognitionDataGenerator library to create synthetic images for the fake class, strengthening the model's ability to detect forged passports.
+
+**Optimized Sequential Model Development**
+
+- Created a sequential machine learning model with a focus on optimization, ensuring high accuracy in character recognition and passport authentication.
+
+**User-Friendly Flask Application**
+
+- Developed a flask application that enables users to upload passport images for authentication, making the solution accessible and easy to use.
+
+**Accurate OCR Implementation**
+
+- Implemented Optical Character Recognition (OCR) to recognize and display output characters from passport images on a character-by-character basis, enhancing the transparency and accuracy of the authentication process.
+
+
 ### Power Bi Energy Consumption Analysis
 **Description**
 
