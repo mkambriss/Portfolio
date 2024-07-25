@@ -32,7 +32,7 @@ I'm passionate about leveraging data and machine learning to gain insights, solv
 1. **Fraud Anamoly Detection for ID Documents**
    - 📅 Duration: May 2024 - July 2024
    - 💡 Description: Developed and designed a model that identifies physical tampering within the Machine Readable Zone (MRZ) of passports, ensuring the integrity and security of document verification processes.  
-   - [Explore Project Details](#fraud-anomaly-detection-for-id-documents)
+   - [Explore Project Details][#fraud-anamoly-detection-for-id-documents]
    - [Explore Repository](https://github.com/mkambriss/Fraud-Anomaly-Detection-for--id-Documents/tree/main)
    
 2. **Power Bi Energy Consumption Analysis**
