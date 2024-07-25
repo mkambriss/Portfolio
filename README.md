@@ -35,13 +35,13 @@ I'm passionate about leveraging data and machine learning to gain insights, solv
    - [Explore Project Details](#fraud-anomaly-detection-for-id-documents)
    - [Explore Repository](https://github.com/mkambriss/Fraud-Anomaly-Detection-for--id-Documents/tree/main)
    
-1. **Power Bi Energy Consumption Analysis**
+2. **Power Bi Energy Consumption Analysis**
    - 📅 Duration: Jul 2023 - Aug 2023
    - 💡 Description: Analyzed and visualized energy consumption data using Power BI.
    - [Explore Project Details](#power-bi-energy-consumption-analysis)
    - [Explore Repository](https://github.com/mkambriss/Power-BI-Energy-Consumption-Analysis)
 
-2. **Instagram Reach Analysis Project**
+3. **Instagram Reach Analysis Project**
    - 📅 Duration: Jul 2023 - Aug 2023
    - 📸 Description: Analyzed Instagram reach and engagement to optimize content strategy.
    - [Explore Project Details](#instagram-reach-analysis-project)
@@ -65,7 +65,7 @@ I'm passionate about leveraging data and machine learning to gain insights, solv
     - [Explore Project Details](#stock-price-prediction-using-machine-learning-in-python)
     - [Explore Repository](https://github.com/mkambriss/Stock-Market-Analysis)
      
-6. **Social Media Data Analysis and Recommendation System**
+7. **Social Media Data Analysis and Recommendation System**
    - 📅 Duration: Apr 2022 - Jul 2022
    - 🔍 Description: Developed a recommendation system using machine learning algorithms for personalized content suggestions.
    - [Explore Project Details](#social-media-data-analysis-and-recommendation-system)
